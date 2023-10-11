@@ -1,15 +1,18 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom";
+import { BrowserRouter as Router, Routes,Route}  from "react-router-dom";
 import App from "./App";
-import { BrowserRouter,Route,Routes } from "react-router-dom";
+import Success from "./Components/Success";z
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
-    <Routes>
-    <Route exact path="/wanofiPortfolio" element={<App />}/>
-    </Routes>
-    </BrowserRouter>
+    <Router basename={process.env.PUBLIC_URL}>
+      <Routes>
+        <Route index element={<App/>}/>
+        <Route path="/wanofiPortfolio" element={<App/>}/>
+        <Route path="/success" element={<Success/>}/>
+      </Routes>
+    </Router>
   </React.StrictMode>
 );
