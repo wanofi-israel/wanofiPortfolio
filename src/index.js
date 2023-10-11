@@ -10,8 +10,10 @@ root.render(
     <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route index element={<App/>}/>
-        <Route path="/wanofiPortfolio" element={<App/>}/>
-        <Route path="/success" element={<Success/>}/>
+        <Route path="/wanofiPortfolio" element={<App/>}>
+          <Route path="success" element={<Success/>}/>
+        </Route>
+        
       </Routes>
     </Router>
   </React.StrictMode>
