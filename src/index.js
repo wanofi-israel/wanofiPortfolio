@@ -1,13 +1,15 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import ReactDOM from "react-dom/client";
 import App from "./App";
+import { BrowserRouter,Route,Routes } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Router>
-    <App />
-    </Router>
+    <BrowserRouter>
+    <Routes>
+    <Route exact path="/wanofiPortfolio" element={<App />}/>
+    </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
