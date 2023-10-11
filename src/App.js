@@ -330,6 +330,7 @@ function App() {
         <div className="greeting" id="greeting">
           <p>Hi I'm</p>
         </div>
+        {/* adding a comment */}
         <div className="name-container">
           <div className="name w">
             <div className="name-left-W">
