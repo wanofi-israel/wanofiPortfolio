@@ -20,10 +20,7 @@ import projects from "./projects";
 import { NavHashLink } from "react-router-hash-link";
 import { Workcard } from "./Components/styles/Workcard.styled";
 import emailjs from '@emailjs/browser'
-import Success from "./Components/Success";
-import {useNavigate} from 'react-router-dom'
 function App() {
-  const navigate=useNavigate();
   window.addEventListener("scroll", function () {
     let value = window.scrollY;
     let Greeting =
@@ -306,7 +303,6 @@ function App() {
   const sendEmail=(e)=>{
     e.preventDefault()
     emailjs.sendForm('service_p9b7o4f','template_tsh9r3r',e.target,'iVV3BBRo7KB-8jY06')
-    navigate('/success')
   }
 
   return (
