@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wanofiPortfolio/static/css/main.3f076080.css",
-    "main.js": "/wanofiPortfolio/static/js/main.fb47b7c0.js",
+    "main.css": "/wanofiPortfolio/static/css/main.4a68cfd7.css",
+    "main.js": "/wanofiPortfolio/static/js/main.1603796d.js",
     "static/media/Xd.png": "/wanofiPortfolio/static/media/Xd.5a026daf2ca1c0945003.png",
     "static/media/jslogo.png": "/wanofiPortfolio/static/media/jslogo.b58e0cada6bdc52879ba.png",
     "static/media/todo.jpg": "/wanofiPortfolio/static/media/todo.74fb7138b34a5fda75f0.jpg",
@@ -17,11 +17,11 @@
     "static/media/Figma.png": "/wanofiPortfolio/static/media/Figma.e797212be19aadb92305.png",
     "static/media/joke.png": "/wanofiPortfolio/static/media/joke.0b982631da9082d3413f.png",
     "index.html": "/wanofiPortfolio/index.html",
-    "main.3f076080.css.map": "/wanofiPortfolio/static/css/main.3f076080.css.map",
-    "main.fb47b7c0.js.map": "/wanofiPortfolio/static/js/main.fb47b7c0.js.map"
+    "main.4a68cfd7.css.map": "/wanofiPortfolio/static/css/main.4a68cfd7.css.map",
+    "main.1603796d.js.map": "/wanofiPortfolio/static/js/main.1603796d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f076080.css",
-    "static/js/main.fb47b7c0.js"
+    "static/css/main.4a68cfd7.css",
+    "static/js/main.1603796d.js"
   ]
 }
