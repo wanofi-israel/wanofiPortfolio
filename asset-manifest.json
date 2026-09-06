@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/wanofiPortfolio/static/css/main.8e5e47c4.css",
+    "main.css": "/wanofiPortfolio/static/css/main.eedfdb7e.css",
     "main.js": "/wanofiPortfolio/static/js/main.c58be815.js",
     "static/media/qualabels.png": "/wanofiPortfolio/static/media/qualabels.da2d5036c849d3959a35.png",
     "static/media/aes.png": "/wanofiPortfolio/static/media/aes.53eb426ed9a36dcab4f0.png",
     "static/media/afom.png": "/wanofiPortfolio/static/media/afom.83c11eab1a9a272d1c69.png",
     "static/media/gigi.png": "/wanofiPortfolio/static/media/gigi.628ed9612dacc3a0b624.png",
+    "static/media/wanofi-split.png": "/wanofiPortfolio/static/media/wanofi-split.f32588c3b4bd7591084c.png",
     "static/media/bala.png": "/wanofiPortfolio/static/media/bala.8a505071d0992ceca136.png",
     "static/media/bleh.png": "/wanofiPortfolio/static/media/bleh.6ea70f3abc78169108ef.png",
     "static/media/Xd.png": "/wanofiPortfolio/static/media/Xd.5a026daf2ca1c0945003.png",
@@ -18,11 +19,11 @@
     "static/media/github.png": "/wanofiPortfolio/static/media/github.f11021803f68852df283.png",
     "static/media/Figma.png": "/wanofiPortfolio/static/media/Figma.e797212be19aadb92305.png",
     "index.html": "/wanofiPortfolio/index.html",
-    "main.8e5e47c4.css.map": "/wanofiPortfolio/static/css/main.8e5e47c4.css.map",
+    "main.eedfdb7e.css.map": "/wanofiPortfolio/static/css/main.eedfdb7e.css.map",
     "main.c58be815.js.map": "/wanofiPortfolio/static/js/main.c58be815.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e5e47c4.css",
+    "static/css/main.eedfdb7e.css",
     "static/js/main.c58be815.js"
   ]
 }
