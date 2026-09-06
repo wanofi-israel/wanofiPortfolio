@@ -10,4 +10,5 @@ width:100%;
 aspect-ratio:16/9;
 box-shadow: -4px 3px 15px -3px #11111150;
 overflow:hidden;
+cursor:pointer;
 `
