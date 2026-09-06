@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/wanofiPortfolio/static/css/main.4a68cfd7.css",
-    "main.js": "/wanofiPortfolio/static/js/main.1603796d.js",
+    "main.css": "/wanofiPortfolio/static/css/main.8e5e47c4.css",
+    "main.js": "/wanofiPortfolio/static/js/main.c58be815.js",
+    "static/media/qualabels.png": "/wanofiPortfolio/static/media/qualabels.da2d5036c849d3959a35.png",
+    "static/media/aes.png": "/wanofiPortfolio/static/media/aes.53eb426ed9a36dcab4f0.png",
+    "static/media/afom.png": "/wanofiPortfolio/static/media/afom.83c11eab1a9a272d1c69.png",
+    "static/media/gigi.png": "/wanofiPortfolio/static/media/gigi.628ed9612dacc3a0b624.png",
+    "static/media/bala.png": "/wanofiPortfolio/static/media/bala.8a505071d0992ceca136.png",
+    "static/media/bleh.png": "/wanofiPortfolio/static/media/bleh.6ea70f3abc78169108ef.png",
     "static/media/Xd.png": "/wanofiPortfolio/static/media/Xd.5a026daf2ca1c0945003.png",
     "static/media/jslogo.png": "/wanofiPortfolio/static/media/jslogo.b58e0cada6bdc52879ba.png",
-    "static/media/todo.jpg": "/wanofiPortfolio/static/media/todo.74fb7138b34a5fda75f0.jpg",
     "static/media/MongoLogo.png": "/wanofiPortfolio/static/media/MongoLogo.2f81ed7ec1fd818da1b5.png",
     "static/media/Nodelogo.png": "/wanofiPortfolio/static/media/Nodelogo.dc0b97947064b4d4a8c6.png",
-    "static/media/telepsychiatry.jpg": "/wanofiPortfolio/static/media/telepsychiatry.e5d98b015aee7a668dd9.jpg",
-    "static/media/meme.png": "/wanofiPortfolio/static/media/meme.157e4f27435b611513ab.png",
-    "static/media/elearning.jpg": "/wanofiPortfolio/static/media/elearning.75d3fe0d92198b20cb80.jpg",
     "static/media/sampleprofile.jpg": "/wanofiPortfolio/static/media/sampleprofile.f3bae70fd4fbf0dd9ccf.jpg",
     "static/media/instagram.png": "/wanofiPortfolio/static/media/instagram.b79433a6d7925494f44f.png",
     "static/media/Reactlogo.png": "/wanofiPortfolio/static/media/Reactlogo.24793fd6bc7a501efd27.png",
     "static/media/github.png": "/wanofiPortfolio/static/media/github.f11021803f68852df283.png",
     "static/media/Figma.png": "/wanofiPortfolio/static/media/Figma.e797212be19aadb92305.png",
-    "static/media/joke.png": "/wanofiPortfolio/static/media/joke.0b982631da9082d3413f.png",
     "index.html": "/wanofiPortfolio/index.html",
-    "main.4a68cfd7.css.map": "/wanofiPortfolio/static/css/main.4a68cfd7.css.map",
-    "main.1603796d.js.map": "/wanofiPortfolio/static/js/main.1603796d.js.map"
+    "main.8e5e47c4.css.map": "/wanofiPortfolio/static/css/main.8e5e47c4.css.map",
+    "main.c58be815.js.map": "/wanofiPortfolio/static/js/main.c58be815.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a68cfd7.css",
-    "static/js/main.1603796d.js"
+    "static/css/main.8e5e47c4.css",
+    "static/js/main.c58be815.js"
   ]
 }
