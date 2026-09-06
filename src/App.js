@@ -3,7 +3,7 @@ import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import FmdGoodIcon from "@mui/icons-material/FmdGood";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import LocalPostOfficeIcon from "@mui/icons-material/LocalPostOffice";
-import profile from "./assets/sampleprofile.jpg";
+import profile from "./assets/wanofi-profile.png";
 import Html from "./assets/Htmllogo.png";
 import Css from "./assets/Csslogo.png";
 import Js from "./assets/jslogo.png";
