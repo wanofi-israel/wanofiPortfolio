@@ -1,34 +1,40 @@
 
  const projects=[
     {
-        Image:require('./assets/todo.jpg'),
-        name:"todo",
-        title:"To-Do",
-        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam earum fugiat eveniet magnam ab nemo reprehenderit amet quae."
+        Image:require('./assets/gigi.png'),
+        name:"gigi",
+        title:"Gigi Transporation",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
-        Image:require('./assets/telepsychiatry.jpg'),
-        name:"tele",
-        title:"Tele-Psychiatry",
-        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam earum fugiat eveniet magnam ab nemo reprehenderit amet quae."
+        Image:require('./assets/bleh.png'),
+        name:"bleh",
+        title:"Bleh Jingles",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
-        Image:require('./assets/joke.png'),
-        name:"joke",
-        title:"Joke Generator",
-        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam earum fugiat eveniet magnam ab nemo reprehenderit amet quae."
+        Image:require('./assets/bala.png'),
+        name:"bala",
+        title:"Bala",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
-        Image:require('./assets/meme.png'),
-        name:"meme",
-        title:"Meme Generator",
-        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam earum fugiat eveniet magnam ab nemo reprehenderit amet quae."
+        Image:require('./assets/afom.png'),
+        name:"afom",
+        title:"Afom Bridal",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
     },
     {
-        Image:require('./assets/elearning.jpg'),
-        name:"elearn",
-        title:"E-Learning",
-        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam earum fugiat eveniet magnam ab nemo reprehenderit amet quae."
+        Image:require('./assets/aes.png'),
+        name:"Aes Cleaning Service",
+        title:"Aes Cleaning Service",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+        Image:require('./assets/qualabels.png'),
+        name:"QuaLabels Manufacturer PLC",
+        title:"QuaLabels Manufacturer PLC",
+        Description:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
     }
 ]
 

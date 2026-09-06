@@ -258,6 +258,8 @@ function App() {
           background: `url(${el.Image})`,
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
+          backgroundPosition:"center",
+          width:"100%"
         }}
       >
         <div className="back">
