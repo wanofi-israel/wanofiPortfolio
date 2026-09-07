@@ -178,7 +178,7 @@ ul>li{
 }
 .section-about{
   background-color: rgb(55, 54, 54);
-  min-height: 100vh;
+  height: auto;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -226,10 +226,14 @@ ul>li{
   font-size: xx-large;
   font-weight: bold;
   color: white;
+  width: 60%;
+  margin-inline: auto;
 }
 .about-description{
   color: rgb(237, 234, 234);
   text-align:left;
+  width: 60%;
+  margin-inline: auto;
 }
 .skills{
   background-color:black;
@@ -530,6 +534,7 @@ textarea{
   padding:6px 12px;
   width:100px;
   align-self: flex-start;
+  cursor: pointer;
 }
 footer{
   color:white;

@@ -1,5 +1,5 @@
 {
-  "homepage":"https://wanofi-israel.github.io/wanofiPortfolio",
+  "homepage": "https://wanofi-israel.github.io/wanofiPortfolio",
   "name": "wanofi",
   "version": "0.1.0",
   "private": true,
@@ -17,13 +17,14 @@
     "react-router-dom": "^6.16.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
+    "react-toastify": "^11.1.0",
     "styled-component": "^2.8.0",
     "styled-components": "^6.0.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
