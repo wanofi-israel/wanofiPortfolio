@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wanofiPortfolio/static/css/main.50898773.css",
+    "main.css": "/wanofiPortfolio/static/css/main.9731938d.css",
     "main.js": "/wanofiPortfolio/static/js/main.10a6e7db.js",
     "static/media/qualabels.png": "/wanofiPortfolio/static/media/qualabels.da2d5036c849d3959a35.png",
     "static/media/aes.png": "/wanofiPortfolio/static/media/aes.53eb426ed9a36dcab4f0.png",
@@ -19,11 +19,11 @@
     "static/media/github.png": "/wanofiPortfolio/static/media/github.f11021803f68852df283.png",
     "static/media/Figma.png": "/wanofiPortfolio/static/media/Figma.e797212be19aadb92305.png",
     "index.html": "/wanofiPortfolio/index.html",
-    "main.50898773.css.map": "/wanofiPortfolio/static/css/main.50898773.css.map",
+    "main.9731938d.css.map": "/wanofiPortfolio/static/css/main.9731938d.css.map",
     "main.10a6e7db.js.map": "/wanofiPortfolio/static/js/main.10a6e7db.js.map"
   },
   "entrypoints": [
-    "static/css/main.50898773.css",
+    "static/css/main.9731938d.css",
     "static/js/main.10a6e7db.js"
   ]
 }
