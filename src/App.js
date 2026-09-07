@@ -543,7 +543,7 @@ function App() {
               </div>
               <div className="phone-num">
                 <p>+251924355889</p>
-                <p>+251913060513</p>
+                <p>+251994070613</p>
               </div>
             </div>
             <div className="contact-item">
