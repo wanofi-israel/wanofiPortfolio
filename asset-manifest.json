@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wanofiPortfolio/static/css/main.8f018b06.css",
-    "main.js": "/wanofiPortfolio/static/js/main.caa54a8d.js",
+    "main.css": "/wanofiPortfolio/static/css/main.ee404c93.css",
+    "main.js": "/wanofiPortfolio/static/js/main.14717860.js",
     "static/media/qualabels.png": "/wanofiPortfolio/static/media/qualabels.da2d5036c849d3959a35.png",
     "static/media/aes.png": "/wanofiPortfolio/static/media/aes.53eb426ed9a36dcab4f0.png",
     "static/media/afom.png": "/wanofiPortfolio/static/media/afom.83c11eab1a9a272d1c69.png",
@@ -12,19 +12,22 @@
     "static/media/wanofi-profile.png": "/wanofiPortfolio/static/media/wanofi-profile.06bec30e79a53b49897d.png",
     "static/media/Xd.png": "/wanofiPortfolio/static/media/Xd.5a026daf2ca1c0945003.png",
     "static/media/jslogo.png": "/wanofiPortfolio/static/media/jslogo.b58e0cada6bdc52879ba.png",
+    "static/media/postgresqllogo.png": "/wanofiPortfolio/static/media/postgresqllogo.03fa86f59ecf90cc7047.png",
+    "static/media/Wanofi Israel Resume_2026.pdf": "/wanofiPortfolio/static/media/Wanofi Israel Resume_2026.fbc17edcee644d7d4d43.pdf",
     "static/media/MongoLogo.png": "/wanofiPortfolio/static/media/MongoLogo.2f81ed7ec1fd818da1b5.png",
     "static/media/Nodelogo.png": "/wanofiPortfolio/static/media/Nodelogo.dc0b97947064b4d4a8c6.png",
+    "static/media/pythonlogo.png": "/wanofiPortfolio/static/media/pythonlogo.51b4d2b1745dc593ccbd.png",
     "static/media/instagram.png": "/wanofiPortfolio/static/media/instagram.b79433a6d7925494f44f.png",
     "static/media/Reactlogo.png": "/wanofiPortfolio/static/media/Reactlogo.24793fd6bc7a501efd27.png",
     "static/media/github.png": "/wanofiPortfolio/static/media/github.f11021803f68852df283.png",
     "static/media/Figma.png": "/wanofiPortfolio/static/media/Figma.e797212be19aadb92305.png",
     "index.html": "/wanofiPortfolio/index.html",
     "static/media/wanofiLogoWhite.svg": "/wanofiPortfolio/static/media/wanofiLogoWhite.d7966d8195ccf4fc29293e8256bdd8f4.svg",
-    "main.8f018b06.css.map": "/wanofiPortfolio/static/css/main.8f018b06.css.map",
-    "main.caa54a8d.js.map": "/wanofiPortfolio/static/js/main.caa54a8d.js.map"
+    "main.ee404c93.css.map": "/wanofiPortfolio/static/css/main.ee404c93.css.map",
+    "main.14717860.js.map": "/wanofiPortfolio/static/js/main.14717860.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f018b06.css",
-    "static/js/main.caa54a8d.js"
+    "static/css/main.ee404c93.css",
+    "static/js/main.14717860.js"
   ]
 }
