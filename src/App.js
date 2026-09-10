@@ -3,16 +3,7 @@ import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import FmdGoodIcon from "@mui/icons-material/FmdGood";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import LocalPostOfficeIcon from "@mui/icons-material/LocalPostOffice";
-import profile from "./assets/wanofi-profile.png";
-import Html from "./assets/Htmllogo.png";
-import Css from "./assets/Csslogo.png";
-import Js from "./assets/jslogo.png";
-import ReactLogo from "./assets/Reactlogo.png";
-import NodeLogo from "./assets/Nodelogo.png";
-import MongoLogo from "./assets/MongoLogo.png";
-import Xd from "./assets/Xd.png";
-import Indesign from "./assets/Indesign.png";
-import Figma from "./assets/Figma.png";
+
 import insta from "./assets/instagram.png";
 import lin from "./assets/linkedin.png";
 import gh from "./assets/github.png";
@@ -30,7 +21,6 @@ import Work from "./Components/sections/Work";
 import { useState } from "react";
 import wanofiLogo from "./assets/wanofiLogoWhite.svg"
 function App() {
-  const navigate = useNavigate();
   const [contactForm,setContactForm]=useState({
     name:"",
     email:"",
@@ -93,7 +83,7 @@ function App() {
     let im = document.getElementById("im");
     let ib = document.getElementById("ib");
 
-    console.log(value);
+    // console.log(value);
     if (Greeting) {
       Greeting.style.marginLeft = 105 + value * -2 + "px";
     }
@@ -288,12 +278,14 @@ function App() {
   const handelSkills = () => {
     const frontEnd = document.querySelector(".front-end");
     const backEnd = document.querySelector(".back-end");
+    const programing = document.querySelector(".programing");
     const uiUx = document.querySelector(".UI-UX");
     const frontList = document.querySelector(".frontend-list");
     const backList = document.querySelector(".backend-list");
+    const programingList = document.querySelector(".programing-list");
     const uiuxList = document.querySelector(".uiux-list");
     init += 1;
-    if (init > 2) {
+    if (init > 3) {
       init = 0;
     }
     if (init === 0) {
@@ -311,6 +303,12 @@ function App() {
     if (init === 2) {
       backEnd.style.display = "none";
       backList.style.display = "none";
+      programing.style.display = "block";
+      programingList.style.display = "grid";
+    }
+    if (init === 3) {
+      programing.style.display = "none";
+      programingList.style.display = "none";
       uiUx.style.display = "block";
       uiuxList.style.display = "grid";
     }
@@ -342,7 +340,7 @@ function App() {
     <div className="app">
       <ToastContainer/>
       <nav>
-        <Link to="/"><img src={wanofiLogo} alt="Wanofi Israel" width={70}/></Link>
+        <Link to="/" title="Wanofi Israel"><img src={wanofiLogo} alt="Wanofi Israel" width={70}/></Link>
         <ul>
           <NavHashLink className="unlink" to="#home">
             Home
@@ -455,15 +453,6 @@ function App() {
       <About />
       <Skills
         handelSkills={handelSkills}
-        Html={Html}
-        Css={Css}
-        Js={Js}
-        ReactLogo={ReactLogo}
-        NodeLogo={NodeLogo}
-        MongoLogo={MongoLogo}
-        Xd={Xd}
-        Indesign={Indesign}
-        Figma={Figma}
       />
 
       <Work card={card}/>
